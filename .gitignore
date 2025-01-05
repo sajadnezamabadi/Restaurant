@@ -1,0 +1,12 @@
+venv/
+.idea/
+media/
+**/__pycache__/
+*.pyc
+*.log
+*.exe 
+*.dll 
+*.so    
+*.tmp
+.vscode/
+.idea/
